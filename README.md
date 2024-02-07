@@ -1,3 +1,12 @@
+- name: Generate
+  uses: Zxilly/animated-timeline@master
+  with:
+    name: 'Hello World' # optional, default: repository owner
+    output: 'assets/animation.webp'
+    type: 'webp' # gif, webp or both
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ### Hi there 👋
 
 <!--
