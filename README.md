@@ -1,7 +1,7 @@
 ![](https://github.com/EmilyNed/EmilyNed/blob/main/Hello%20world.png) 
 
 ## 💫 About Me:
-🌍 Originating from Macedonia, my professional journey began with a profound interest in both programming and human health. Equipped with a degree in Technical Engineering-Nutrition, I set out to merge these seemingly distinct domains. My objective? To deploy technology's capabilities for promoting healthier communities worldwide.
+🌍 Originating from Macedonia, my professional journey began with a profound interest in both programming and human health. Equipped with a degree in Engineering Technology-Nutrition, I set out to merge these seemingly distinct domains. My objective? To deploy technology's capabilities for promoting healthier communities worldwide.
 
 🔭 I’m currently working on a Java application to send automated emails with motivational quotes and inspiring images sourced from an API.<br>
 👯 I’m looking to collaborate with inspiring people on Java projects.<br>
